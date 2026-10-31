@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="blockruler"
+version="1.0.0"
+displayName="Block Ruler"
+authors="BlockRuler"
+description='''A building convenience tool. Press the ruler mode key to get a cyan ruler hotbar with tools for measuring and visualizing lines of blocks.'''
+
+[[dependencies.blockruler]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.263,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.blockruler]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,16 @@
+{
+  "key.categories.blockruler": "Block Ruler",
+  "key.blockruler.ruler_mode": "Toggle Ruler Mode",
+  "itemGroup.blockruler": "Block Ruler",
+  "item.blockruler.block_ruler": "Block Ruler",
+  "tooltip.blockruler.ruler": "Ruler mode: right-click to measure, left-click to discard",
+  "message.blockruler.on": "Ruler mode enabled",
+  "message.blockruler.off": "Ruler mode disabled",
+  "message.blockruler.axis_only": "Second point must be axis-aligned (X, Y or Z only)",
+  "message.blockruler.no_target": "No block in reach",
+  "message.blockruler.limit": "Ruler limit exceeded (%s)",
+  "message.blockruler.discarded": "Ruler discarded",
+  "message.blockruler.discarded_all": "All rulers discarded",
+  "hud.blockruler.title": "-- RULER --",
+  "hud.blockruler.hint": "RMB to place, LMB to discard, Crouch+LMB to discard all"
+}

@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - /data/data/com.termux/files/usr/lib/jvm/java-21-openjdk/bin/java
+ - -jar
+ - /data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/net.neoforged.installertools/installertools/2.1.2/62740d5aa8f75f4a4d542d363bdda5b64a198f7a/installertools-2.1.2-fatjar.jar
+ - --task
+ - bundler_extract
+ - --input
+ - /data/data/com.termux/files/home/.gradle/caches/neoformruntime/artifacts/minecraft_1.21.1_server.jar
+ - --output
+ - ./output.jar
+ - --jar-only
+--------------------------------------------------------------------------------
+
+Task: BUNDLER_EXTRACT
+Input:   /data/data/com.termux/files/home/.gradle/caches/neoformruntime/artifacts/minecraft_1.21.1_server.jar
+Output:  /data/data/com.termux/files/home/minecraft mods/Block Ruler/build/tmp/neoformruntime/20261031-111432_extractServer/./output.jar
+All:     false
+JarOnly: true
+Libs:    false
+Extracted: versions/1.21.1/server-1.21.1.jar
